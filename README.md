@@ -9,7 +9,7 @@ Focused server-side examples for building music generation workflows with Eleven
 
 ElevenLabs Music is useful for creator tools that need full song drafts, section-based composition, instrumental background music, and commercial audio workflow prototypes.
 
-[Model Page](https://poyo.ai/models/elevenlabs-music) | [Docs](https://docs.poyo.ai/api-manual/music-series/elevenlabs-music) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/elevenlabs-music) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/music-series/elevenlabs-music) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
